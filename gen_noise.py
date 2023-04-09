@@ -1,4 +1,4 @@
-'''this program generated time domain gaussian noise from a given PSD'''
+#this program generated time domain gaussian noise from a given PSD
 
 import matplotlib.pyplot as pp
 import pycbc.noise
